@@ -3,5 +3,5 @@ if game.PlaceId == 9791603388 then --Underground War 2.0
 elseif game.PlaceId == 4924922222 then --BrookHaven RP
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/Scripts/refs/heads/main/BrookHaven%20RP"))()
 elseif game.PlaceId == 205224386 then --Hideseek Extreme
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/Scripts/refs/heads/main/HideSeekExtreme"))()
   end
