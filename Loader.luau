@@ -16,11 +16,9 @@ local function GetIcon()
   end
   
   GetIcon()
-
   
   local JOGOS_SUPORTADOS = {"4924922222", "9791603388"}
   
- 
 local function SetProps(Instance, Props)
     if Props then
         for prop, value in pairs(Props) do
@@ -340,9 +338,9 @@ ScrollSuportados.CanvasSize = ScrollSuportados.CanvasSize + UDim2.new(0, 0, 0, 2
 end
 
 AddJogoSuportado({
-  Text = "Underground War"
+  Text = "Underground War 2.0"
 })
 
 AddJogoSuportado({
-  Text = "BrookHaven RP"
+  Text = "BrookHaven 🏡RP"
 })
