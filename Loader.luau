@@ -338,7 +338,7 @@ ScrollSuportados.CanvasSize = ScrollSuportados.CanvasSize + UDim2.new(0, 0, 0, 2
 end
 
 AddJogoSuportado({
-  Text = "Underground War 2.0"
+  Text = "Underground War 2.0 [Nuke]"
 })
 
 AddJogoSuportado({
