@@ -4,6 +4,6 @@ elseif game.PlaceId == 4924922222 then --BrookHaven RP
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/Scripts/refs/heads/main/BrookHaven%20RP"))()
 elseif game.PlaceId == 205224386 then --Hideseek Extreme
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/Scripts/refs/heads/main/HideSeekExtreme"))()
-elseif game.PlaceId == 0 or game.PlaceId == 0 then
+elseif game.PlaceId == 7577073048 or game.PlaceId == 7540891731 then --Red Light, Green Light
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/Scripts/refs/heads/main/RLGL"))()
   end
